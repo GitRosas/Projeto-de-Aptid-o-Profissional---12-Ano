@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PapV2</string>
+    <string name="bem_vindo">Bem-Vindo Administrador</string>
+    <string name="faz_o_login_para_prosseguir">Verifique as credenciais no seu email</string>
+    <string name="email">Username</string>
+    <string name="palavra_passe">Palavra Passe</string>
+    <string name="login">Login</string>
+
+</resources>
